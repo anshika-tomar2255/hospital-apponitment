@@ -1,4 +1,5 @@
-package org.example;
+// src/main/java/com/cts/mis/hospital appointment/Main.java
+package com.cts.mis.hospitalappointment;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
