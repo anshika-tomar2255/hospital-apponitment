@@ -1,4 +1,4 @@
-// src/test/java/com/cts/mis/hospitalappointment/HospitalAppointmentRepositoryTest.java
+// src/test/java/com/cts/mis/hospital appointment/HospitalAppointmentRepositoryTest.java
 package repositary;
 
 import com.cts.mis.hospitalappointment.HospitalAppointmentRepository;
